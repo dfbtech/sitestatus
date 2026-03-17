@@ -13,7 +13,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /sitestatus
   logoUrl: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/DFB%20Tech%20logo%20website.svg
-  favicon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/bid_landscape_1000dp_00BF63_FILL0_wght400_GRAD0_opsz48.svg
+  favicon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/bid_landscape_1000dp_00BF63_FILL0_wght400_GRAD200_opsz48.svg
   name: Upptime
   introTitle: "DFB Tech Website Status"
   introMessage: 
