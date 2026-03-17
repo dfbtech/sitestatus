@@ -4,7 +4,7 @@ repo: sitestatus # The name of this repository
 
 sites:
   - name: Website
-    url: https://www.dfbtech.wixsite.com/site
+    url: https://dfbtech.wixsite.com/site
 
 status-website:
   theme: night
