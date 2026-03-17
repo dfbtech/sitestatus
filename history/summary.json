@@ -1,22 +1,22 @@
 [
   {
     "name": "Website",
-    "url": "https://www.dfbtech.wixsite.com/site",
-    "icon": "https://icons.duckduckgo.com/ip3/www.dfbtech.wixsite.com.ico",
+    "url": "https://dfbtech.wixsite.com/site",
+    "icon": "https://icons.duckduckgo.com/ip3/dfbtech.wixsite.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "2.78%",
-    "uptimeDay": "2.78%",
-    "uptimeWeek": "2.78%",
-    "uptimeMonth": "2.78%",
-    "uptimeYear": "2.78%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
+    "time": 489,
+    "timeDay": 489,
+    "timeWeek": 489,
+    "timeMonth": 489,
+    "timeYear": 489,
     "dailyMinutesDown": {
-      "2026-03-17": 0
+      "2026-03-17": 13
     }
   }
 ]
