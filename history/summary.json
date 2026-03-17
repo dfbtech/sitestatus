@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dfbtech.wixsite.com.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.78%",
+    "uptimeDay": "2.78%",
+    "uptimeWeek": "2.78%",
+    "uptimeMonth": "2.78%",
+    "uptimeYear": "2.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-17": 0
+    }
   }
 ]
