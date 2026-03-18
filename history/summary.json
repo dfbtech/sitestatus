@@ -2,7 +2,7 @@
   {
     "name": "Website",
     "url": "https://dfbtech.wixsite.com/site",
-    "icon": "https://icons.duckduckgo.com/ip3/dfbtech.wixsite.com.ico",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Wix_logo_svg.svg",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 371,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "time": 319,
+    "timeDay": 319,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   }
 ]
