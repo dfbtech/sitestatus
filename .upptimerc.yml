@@ -5,7 +5,7 @@ repo: sitestatus # The name of this repository
 sites:
   - name: Website
     url: https://dfbtech.wixsite.com/site
-    icon: https://upload.wikimedia.org/wikipedia/commons/a/aa/Wix_logo_svg.svg
+    icon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/language_24dp_A2A2A2_FILL0_wght400_GRAD0_opsz24.svg
 
 status-website:
   theme: night
@@ -23,6 +23,10 @@ status-website:
       href: /sitestatus
     - title: Main Website
       href: https://dfbtech.wixsite.com/site
+    - title: Instagram
+      href: https://www.instagram.com/dfb_tech
+    - title: Contact
+      href: mailto:dfbtech1@gmail.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
