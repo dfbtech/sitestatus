@@ -6,6 +6,9 @@ sites:
   - name: Website
     url: https://dfbtech.wixsite.com/site
     icon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/language_24dp_A2A2A2_FILL0_wght400_GRAD0_opsz24.svg
+  - name: Status Page
+    url: https://dfbtech.github.io/sitestatus/
+    icon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/language_24dp_A2A2A2_FILL0_wght400_GRAD0_opsz24.svg
 
 status-website:
   theme: night
