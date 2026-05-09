@@ -5,11 +5,10 @@ repo: sitestatus # The name of this repository
 sites:
   - name: Website
     url: https://dfbtech.wixsite.com/site
-    icon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/language_24dp_A2A2A2_FILL0_wght400_GRAD0_opsz24.svg
+    icon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/fluent--globe-20-regular.svg
   - name: Status Page
     url: https://dfbtech.github.io/sitestatus/
-    icon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/language_24dp_A2A2A2_FILL0_wght400_GRAD0_opsz24.svg
-
+    icon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/fluent--globe-20-regular.svg
 status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
