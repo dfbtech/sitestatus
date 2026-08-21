@@ -7,7 +7,7 @@ sites:
     url: https://dfbtech.wixsite.com/site
     icon: https://raw.githubusercontent.com/dfbtech/sitestatus/refs/heads/master/assets/language_24dp_A2A2A2_FILL0_wght400_GRAD0_opsz24.svg
 status-website:
-  theme: dark
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
